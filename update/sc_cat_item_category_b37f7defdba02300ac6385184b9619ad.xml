@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Kamaka Standard">f8beb5efdba02300ac6385184b961928</sc_cat_item>
+        <sc_category display_value="Stringed Instruments">aafe79efdba02300ac6385184b961964</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>kui</sys_created_by>
+        <sys_created_on>2018-09-20 21:23:19</sys_created_on>
+        <sys_id>b37f7defdba02300ac6385184b9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stringed Instruments.Kamaka Standard</sys_name>
+        <sys_package display_value="Doug and Kui's Music Eporium" source="x_218651_doug_kui">80b595a3db602300ac6385184b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doug and Kui's Music Eporium">80b595a3db602300ac6385184b9619f0</sys_scope>
+        <sys_update_name>sc_cat_item_category_b37f7defdba02300ac6385184b9619ad</sys_update_name>
+        <sys_updated_by>kui</sys_updated_by>
+        <sys_updated_on>2018-09-20 21:23:19</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

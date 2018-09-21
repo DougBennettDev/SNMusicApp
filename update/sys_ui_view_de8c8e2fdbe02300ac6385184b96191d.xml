@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_consulting_services</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>kui</sys_created_by>
+        <sys_created_on>2018-09-20 22:20:17</sys_created_on>
+        <sys_id>de8c8e2fdbe02300ac6385184b96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consulting Services View</sys_name>
+        <sys_package display_value="Doug and Kui's Music Eporium" source="x_218651_doug_kui">80b595a3db602300ac6385184b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doug and Kui's Music Eporium">80b595a3db602300ac6385184b9619f0</sys_scope>
+        <sys_update_name>sys_ui_view_de8c8e2fdbe02300ac6385184b96191d</sys_update_name>
+        <sys_updated_by>kui</sys_updated_by>
+        <sys_updated_on>2018-09-20 22:20:17</sys_updated_on>
+        <title>Consulting Services View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

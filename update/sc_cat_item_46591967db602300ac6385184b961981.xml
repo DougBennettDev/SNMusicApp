@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <category display_value="Guitars">17481927db602300ac6385184b96195c</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Fender&#39;s flagship guitar that has been the go-to instrument  for rock and roll gods for decades</p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Fender Stratocaster</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture>4c6ad1a7db602300ac6385184b9619a3</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=46591967db602300ac6385184b961981&amp;sysparm_preview=true", "summary");</preview>
+        <price>599.99</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs>73975527db602300ac6385184b9619b0</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Fender Stratocaster</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 18:40:10</sys_created_on>
+        <sys_id>46591967db602300ac6385184b961981</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Fender Stratocaster</sys_name>
+        <sys_package display_value="Doug and Kui's Music Eporium" source="x_218651_doug_kui">80b595a3db602300ac6385184b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doug and Kui's Music Eporium">80b595a3db602300ac6385184b9619f0</sys_scope>
+        <sys_update_name>sc_cat_item_46591967db602300ac6385184b961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:42:41</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=46591967db602300ac6385184b961981"/>
+    <fx_price action="delete_multiple" query="id=46591967db602300ac6385184b961981"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>599.99</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>46591967db602300ac6385184b961981</id>
+        <parent/>
+        <reference_amount>599.99</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 18:40:10</sys_created_on>
+        <sys_id>752ad527db602300ac6385184b9619a3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:42:41</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>46591967db602300ac6385184b961981</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 18:40:10</sys_created_on>
+        <sys_id>b92ad527db602300ac6385184b9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:40:10</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#7c6545</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <image_height>159</image_height>
+        <image_width>318</image_width>
+        <size_bytes>5295</size_bytes>
+        <size_compressed>5062</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 18:41:07</sys_created_on>
+        <sys_id>4c6ad1a7db602300ac6385184b9619a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:41:08</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>46591967db602300ac6385184b961981</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="4c6ad1a7db602300ac6385184b9619a3">4c6ad1a7db602300ac6385184b9619a3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 18:41:07</sys_created_on>
+        <sys_id>446ad1a7db602300ac6385184b9619a4</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6736</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="4c6ad1a7db602300ac6385184b9619a3">4c6ad1a7db602300ac6385184b9619a3</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 18:41:07</sys_created_on>
+        <sys_id>c46ad1a7db602300ac6385184b9619a4</sys_id>
+    </sys_attachment_doc>
+</record_update>

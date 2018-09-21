@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2018-09-21 04:21:36">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 21:43:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57044ee3dbe02300ac6385184b9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_consultation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Doug and Kui's Music Eporium" source="x_218651_doug_kui">80b595a3db602300ac6385184b9619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doug and Kui's Music Eporium">80b595a3db602300ac6385184b9619f0</sys_scope>
+        <sys_update_name>sys_portal_page_57044ee3dbe02300ac6385184b9619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-20 21:43:13</sys_updated_on>
+        <title>catalog_consultation</title>
+        <user/>
+        <view>catalog_consultation</view>
+    </sys_portal_page>
+</record_update>

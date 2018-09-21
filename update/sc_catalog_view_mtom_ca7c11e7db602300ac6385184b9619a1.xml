@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Instrument Repair">b43c19e7db602300ac6385184b9619a7</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-20 18:50:16</sys_created_on>
+        <sys_id>ca7c11e7db602300ac6385184b9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Instrument Repair.catalog_instrument_repair</sys_name>
+        <sys_package display_value="Doug and Kui's Music Eporium" source="x_218651_doug_kui">80b595a3db602300ac6385184b9619f0</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_instrument_repair">427c11e7db602300ac6385184b9619a1</sys_portal_page>
+        <sys_scope display_value="Doug and Kui's Music Eporium">80b595a3db602300ac6385184b9619f0</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_ca7c11e7db602300ac6385184b9619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:50:16</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
